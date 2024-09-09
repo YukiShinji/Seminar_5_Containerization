@@ -1,6 +1,4 @@
 # Урок 5. Docker Compose и Docker Swarm
-## Classwork
-Знакомились с работой Docker Compose и Docker Swarm
 ## Homework 
 ### Задание 1:
 1) создать сервис, состоящий из 2 различных контейнеров: 1 - веб, 2 - БД
